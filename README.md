@@ -1,3 +1,6 @@
+DIAGRAMA DE TODAS LAS CLASES 
+![Desde un archivo local](./images/tarea.jpg)
+
 # Documentando un programa Wollok
 
 El objetivo de este ejercicio es comenzar a ejercitar la idea de _documentar_ un diseño, partiendo en este caso de una implementación existente. Dejamos el enunciado original en [otro archivo](./dominio.md) por si necesitan consultarlo.
@@ -23,3 +26,5 @@ Y de yapa, dos ejemplos de cómo incluir una imagen en Markdown (vean este archi
 ![Directamente desde un link](http://www.plantuml.com/plantuml/png/JSqn2W9138NXFgT8gLUmMb5hlS9Z9gu3cGmaMH74kxl25lR_zzuK2S-bAnL51DyKC_XDpEcmw2tbOdVnBXLrjp_mKUT17zhoqrBWA0y4ool5wl-2jQVe6TR63rxJnuQdDLmllm00)
 
 ![Desde un archivo local](./images/ejemplo-uml.png)
+
+
